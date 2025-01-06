@@ -46,4 +46,4 @@ https://www.youtube.com/watch?v=jUoGzTEvR8w
 
 ## 실행 파일
 
-- Python 3.11.4
+- [Python 3.11.4](https://github.com/enopid/Planet_Escape/releases/download/Plane_Excape_v1/planet_escape.zip)
